@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\Admin\Desktop\test2\frmStatist.dfm=C:\Users\Admin\Desktop\test2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,C:\Users\Admin\Desktop\test2\frmStatist.dfm=C:\Users\Admin\Desktop\test2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,C:\Users\Admin\Desktop\test2\frmMain.pas=C:\Users\Admin\Desktop\test2\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,=C:\Users\Admin\Desktop\test2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.801,=C:\Users\Admin\Desktop\test2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,C:\Users\Admin\Desktop\test2\frmOperator.dfm=C:\Users\Admin\Desktop\test2\ChildWin.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,C:\Users\Admin\Desktop\test2\frmDBSet.pas=C:\Users\Admin\Desktop\test2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,C:\Users\Admin\Desktop\test2\frmFind.dfm=C:\Users\Admin\Desktop\test2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,C:\Users\Admin\Desktop\test2\frmFind.pas=C:\Users\Admin\Desktop\test2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Admin\Desktop\test2\Func.pas=C:\Users\Admin\Desktop\test2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.424,C:\Users\Admin\Desktop\test2\about.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,=C:\Users\Admin\Desktop\test2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=C:\Users\Admin\Desktop\test2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,C:\Users\Admin\Desktop\Example\Project.dproj=C:\Users\Admin\Desktop\test2\Project.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,C:\Users\Admin\Desktop\test2\frmStatist.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,C:\Users\Admin\Desktop\test2\frmStatist.pas=C:\Users\Admin\Desktop\test2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,C:\Users\Admin\Desktop\test2\frmStatist.pas=C:\Users\Admin\Desktop\test2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,=C:\Users\Admin\Desktop\test2\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,C:\Users\Admin\Desktop\test2\Project.dproj=C:\Users\Admin\Desktop\Example\Project.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,C:\Users\Admin\Desktop\test2\Project.dproj=C:\Users\Admin\Desktop\test2\MDIAPP.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,C:\Users\Admin\Desktop\test2\frmMain.dfm=C:\Users\Admin\Desktop\test2\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,C:\Users\Admin\Desktop\test2\frmOperator.pas=C:\Users\Admin\Desktop\test2\ChildWin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,C:\Users\Admin\Desktop\test2\frmDBSet.dfm=C:\Users\Admin\Desktop\test2\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
